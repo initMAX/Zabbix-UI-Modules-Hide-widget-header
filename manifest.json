@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2.0,
+	"id": "hidewidgetheader",
+	"type": "module",
+	"name": "Hide widget header",
+	"description": "This module enables headers to appear on widgets when hovering the mouse, but only in dashboard edit mode.",
+	"url": "https://www.initmax.com",
+	"namespace": "hwh",
+	"version": "7.0-0",
+	"author": "initMAX s.r.o.",
+	"actions": {},
+	"assets": {
+		"css": [
+			"widgetmax.css"
+		]
+	}
+}
