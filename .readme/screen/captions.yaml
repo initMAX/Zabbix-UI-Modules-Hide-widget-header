@@ -1,0 +1,12 @@
+00-without-module.png:
+  en: "Without the module: Zabbix still draws the header of a \"hidden header\" widget on hover."
+  cs: "Bez modulu: Zabbix hlavičku widgetu se skrytou hlavičkou při najetí myší stále kreslí."
+01-overview.png:
+  en: "With Hide widget header: the same dashboard in view mode, headers gone, only the data on the wall."
+  cs: "S Hide widget header: stejný dashboard v režimu prohlížení, hlavičky pryč, na zdi jen data."
+02-view-mode.png:
+  en: "View mode close-up: tiles without headers, nothing to distract a NOC screen."
+  cs: "Detail režimu prohlížení: dlaždice bez hlaviček, na obrazovce NOC nic neruší."
+03-edit-mode.png:
+  en: "Edit mode: the headers are back, the widgets move and configure as usual."
+  cs: "Režim úprav: hlavičky jsou zpět, widgety se přesouvají a nastavují jako obvykle."
